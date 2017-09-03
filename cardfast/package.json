@@ -1,22 +1,17 @@
 {
-  "name": "payfast",
+  "name": "cardfast",
   "version": "1.0.0",
-  "description": "API para pagamentos.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
     "consign": "^0.1.6",
     "express": "^4.15.4",
-    "express-validator": "^4.1.1",
-    "mysql": "^2.14.1",
-    "restify": "^5.2.0",
-    "restify-clients": "^1.5.0",
-    "soap": "^0.21.0"
+    "express-validator": "^4.1.1"
   }
 }
